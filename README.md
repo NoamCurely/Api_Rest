@@ -123,7 +123,7 @@ REFRESH_TOKEN_SECRET = 825y8i3hnfjmsbv7gwajbl7fobqrjfvbs7gbfj2q3bgh8f42
 #### DELETE One User
 
 ```http
-  DELETE /api/delet/:id
+  DELETE /api/delete/:id
 ```
 
 | Parameter | Type     | Description         |
